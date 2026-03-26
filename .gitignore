@@ -1,0 +1,4 @@
+leadhunter/.env
+leadhunter/**/node_modules/
+leadhunter/**/__pycache__/
+leadhunter/data/*.db
